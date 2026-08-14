@@ -1,2 +1,1 @@
-
-# Repositório com os códigos da matéria de S01.
+Repositório dedicado aos códigos, exercícios e projetos desenvolvidos ao longo da matéria de Estruturas de Dados no **Inatel**.
