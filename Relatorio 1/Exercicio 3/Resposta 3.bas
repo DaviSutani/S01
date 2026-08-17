@@ -1,4 +1,4 @@
-dim horas As double
+dim horas As Double
 
 input horas 
 

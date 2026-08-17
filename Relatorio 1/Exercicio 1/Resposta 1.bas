@@ -1,6 +1,6 @@
-Dim weight As double
-Dim water As double
-Dim goal As double
+Dim weight As Double
+Dim water As Double
+Dim goal As Double
 
 Print "Coloque respectivamente seu peso com uma casa decimal e depois a quantidade de agua ingerida (EM ML)."
 

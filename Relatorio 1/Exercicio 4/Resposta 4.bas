@@ -1,6 +1,6 @@
-dim distancia As double
-dim tempo As double 
-dim pace As double 
+dim distancia As Double
+dim tempo As Double 
+dim pace As Double 
 
 input distancia
 input tempo 
