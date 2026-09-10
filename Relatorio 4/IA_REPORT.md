@@ -1,0 +1,1 @@
+Nao foi necessario utilizar IA para realização desse relatório.
