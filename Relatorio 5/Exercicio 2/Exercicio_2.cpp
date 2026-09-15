@@ -4,7 +4,7 @@ using namespace std;
 float calcular_confiabilidade_sistema(float probabilidades[],int tamanho){
     float resultado_final = 1;
     for(int i = 0; i< tamanho;i++){
-       resultado_final *= probabilidades[i];
+       resultado_final = resultado_final * probabilidades[i];
     }
     return resultado_final;
 }
