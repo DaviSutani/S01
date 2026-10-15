@@ -14,7 +14,8 @@ class Aliado:
 class Lider:
     def __init__(self,codinome):
         self.codinome = codinome
-        self.persona = Persona("Arsene", "Louco") 
+        self.persona = Persona("Arsene", "Louco")
+        self._equipe = []
     def recrutar(self, aliado: Aliado):
         self._equipe.append(aliado)
         print(f"{aliado.nome} foi recrutado para a equipe de {self.codinome}")
