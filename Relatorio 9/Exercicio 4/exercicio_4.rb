@@ -41,7 +41,6 @@ class Investigacao
         @caso = caso
         @envolvidos = []
     end
-
     def registrar(envolvido)
       @envolvidos << envolvido
     end
