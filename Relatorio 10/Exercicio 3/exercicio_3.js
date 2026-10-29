@@ -55,7 +55,6 @@ diario_7 = new DiarioMisterioso(7);
 diario_7.anotar(`Piramede do mal`, 10);
 diario_7.anotar(`Alien`, 3);
 diario_7.exibirFichas();
-
 SoosRaimerez = new Funcionario(`Soos-Raimerez`, `Gerente`);
 Maybel = new Funcionario(`Maybel`, `Faxineira`);
 

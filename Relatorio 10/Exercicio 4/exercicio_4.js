@@ -52,7 +52,6 @@ class TrupeFantasma {
 }
 Chroll = new Aranha(`Chrollo Lucilfer`, 0);
 Machi = new Aranha(`Machi Komacine`, 3);
-
 Genei = new TrupeFantasma(`Meteor City`, [Chroll, Machi]);
 
 Genei.revelarAranhas();
