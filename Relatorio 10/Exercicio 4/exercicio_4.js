@@ -46,7 +46,6 @@ class TrupeFantasma {
       console.log(`${aranha.numero} sendo seu nome: ${aranha.nome}`);
     });
   }
-
   buscarAranha(numero) {
     return this.#Aranhas.find((aranha) => aranha.numero === numero);
   }

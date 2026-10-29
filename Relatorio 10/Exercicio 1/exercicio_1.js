@@ -9,7 +9,6 @@ class Pokemon {
   get vida() {
     return this.#vidainicial;
   }
-
   sofrerDanos(pontos) {
     this.#vidainicial = this.#vidainicial - pontos;
 
