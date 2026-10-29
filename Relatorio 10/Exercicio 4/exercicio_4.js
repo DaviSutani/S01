@@ -51,7 +51,6 @@ class TrupeFantasma {
     return this.#Aranhas.find((aranha) => aranha.numero === numero);
   }
 }
-
 Chroll = new Aranha(`Chrollo Lucilfer`, 0);
 Machi = new Aranha(`Machi Komacine`, 3);
 
